@@ -1,4 +1,4 @@
-module ubb.scs.map.cerinta1 {
+module ubb.scs.map.cerinta {
     requires javafx.controls;
     requires javafx.fxml;
 
